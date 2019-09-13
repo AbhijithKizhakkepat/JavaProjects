@@ -15,7 +15,6 @@ public class MyMain {
 		}
 		
 		MyMain mymain = new MyMain("Abhy");
-
 	}
 
 }
